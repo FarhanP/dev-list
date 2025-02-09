@@ -12,9 +12,9 @@ function DevList() {
 
   if (data.isLoading) {
     return (
-      <div className="flex justify-center items-center">
+      <div className="flex flex-1 justify-center items-center">
         <div
-          className="animate-spin size-24 border-[3px] border-current  border-t-transparent text-green-600 rounded-full dark:text-green-600"
+          className="animate-spin mt-6 size-24 border-[3px] border-current  border-t-transparent text-green-600 rounded-full dark:text-green-600"
           role="status"
           aria-label="loading"
         >
