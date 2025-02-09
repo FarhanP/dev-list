@@ -10,7 +10,7 @@ function App() {
       <DevList />
       <footer className="text-black text-center mt-6">
         Made with <span className="text-green-600">&hearts;</span> by{" "}
-        <b className="font-bold">Farhan</b>
+        <span className="font-bold">Farhan</span>
       </footer>
     </div>
   );
