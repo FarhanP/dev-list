@@ -8,7 +8,7 @@ function App() {
         <b className="text-green-600">Dev</b> list
       </h1>
       <DevList />
-      <footer className="text-black">
+      <footer className="text-black mt-auto">
         Made with <span className="text-green-600">&hearts;</span> by{" "}
         <b className="font-bold">Farhan</b>
       </footer>
